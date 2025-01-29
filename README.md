@@ -2,14 +2,14 @@
 
 Bem-vindo ao repositório da **Loja de Bonés Online**, um projeto desenvolvido com JavaScript para proporcionar uma experiência simples e eficiente na compra de bonés!
 
-## :tools: Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **JavaScript (JS)** → Lógica interativa do site
 - **HTML & CSS** → Estrutura e estilização da interface
 
-## 🛙️ Sobre o Projeto
+##  Sobre o Projeto
 
-Nosso sistema permite:
+Nosso sistema permite:<br>
 :heavy_check_mark: Visualizar os bonés disponíveis<br>
 :heavy_check_mark: Adicionar bonés ao carrinho<br>
 :heavy_check_mark: Finalizar a compra de forma intuitiva<br>
