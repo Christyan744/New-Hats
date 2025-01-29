@@ -19,7 +19,7 @@ O objetivo é oferecer uma experiência fluida e interativa para os usuários qu
 ## :rocket: Experimente o Projeto
 
 Quer ver o projeto em ação? Acesse agora mesmo:
-:point_right: [**Clique aqui para testar!**](https://new-hats.vercel.app/index.html)
+[**Clique aqui para testar!**](https://new-hats.vercel.app/index.html)
 
 Se você gostou do projeto, deixe uma :star: e sinta-se à vontade para contribuir!
 
